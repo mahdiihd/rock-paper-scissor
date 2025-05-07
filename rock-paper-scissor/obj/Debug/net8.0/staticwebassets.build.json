@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "nD0CV2nq1lmrClKptxO9rt5uD+MGyhOssfycMPr8/xo=",
+  "Source": "rock-paper-scissor",
+  "BasePath": "_content/rock-paper-scissor",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

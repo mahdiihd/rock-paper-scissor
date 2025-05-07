@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("rock-paper-scissor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7bef6f085c6a4e1c1d7bebd34cfc08309cb6676c")]
 [assembly: System.Reflection.AssemblyProductAttribute("rock-paper-scissor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("rock-paper-scissor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
